@@ -6,7 +6,7 @@
 //4. Requires jsdom so we can test via an in-memory DON IN node
 //5. Set up global vars that mimic a browser.
 
-/* eslint disable no-var */
+/*eslint-disable no-var */
 
 /* This settign assures the .babelrc dev config
  (which includes hot module reloding code) doesn't apply for tests.
